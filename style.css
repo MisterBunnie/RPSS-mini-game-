@@ -1,0 +1,28 @@
+#gameDiv{
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid;
+    flex-direction: column;
+    background-color: brown;
+    border-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+#h1{
+    text-align: center;
+
+}
+.choiceBtn{
+    background-color: brown;
+    color: white;
+    line-height: 25px;
+    width: 200px;
+    
+}
+.choiceBtn:hover{
+    color: black;
+}
+#playerText,#botText,#resultText{
+    color: white;
+}
